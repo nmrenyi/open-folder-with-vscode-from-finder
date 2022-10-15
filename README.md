@@ -26,4 +26,4 @@ Notes:
 2. *Visual Studio Code.app* may not appear in the drop down menu of step 5 as expected. You may need to choose *other* and find it. Usually the *Visual Studio Code.app* is in `Application` folder. If not, you may refer to the installation part of [Visual Studio Code on macOS](https://code.visualstudio.com/docs/setup/mac#_installation) to move it here.
 
 ## Reference
-1. The method refers to https://stackoverflow.com/questions/64040393/open-a-folder-in-vscode-through-finder-in-macos . I organised it into a doc here for everyone who may need it.
+1. The implementation method refers to the second answer of [this post](https://stackoverflow.com/questions/64040393/open-a-folder-in-vscode-through-finder-in-macos) on StackOverflow. . I organised these steps into a doc with a demo here for everyone who may need it.
