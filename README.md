@@ -1,12 +1,14 @@
 # Open Visual Studio Code From Finder On Mac
 
 
-## Motivation
+## Demo
 Open folder and file with VS Code from Finder with a subtle right click!
 
 ![Open VS Code from Finder](https://github.com/nmrenyi/open-vscode-from-finder-on-mac/raw/main/pics/demo.gif)
 
 No more opening VS Code and selecting the lengthy path or dragging folders or files to VS Code any more!
+
+## Motivation
 
 It's quite a common need to open VS Code from a Finder window on Mac, especially for those developers who have been customed to open VS Code from File Explorer with just a slight right click on the target folder or file.
 
