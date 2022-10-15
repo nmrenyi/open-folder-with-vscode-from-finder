@@ -18,3 +18,5 @@ Notes:
 1. *Automator* is a powerful tool natively available in macOS, which aims to design and automate user customized workflow. You can find it from `Application` folder or simple search for it with *Spotlight*.
 2. *Visual Studio Code.app* may not appear in the drop down menu of step 5 as expected. You may need to choose *other* and find it. Usually the *Visual Studio Code.app* is in `Application` folder. If not, you may refer to [this post](https://code.visualstudio.com/docs/setup/mac#_installation) to move it here.
 
+## Reference
+1. The method refers to https://stackoverflow.com/questions/64040393/open-a-folder-in-vscode-through-finder-in-macos . I organised it into a doc here for everyone who may need it.
