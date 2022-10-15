@@ -15,7 +15,7 @@ However, VS Code on Mac does not offer this shortcut natively. So here is a **ea
 6. Press `command+s` to save the script to your favourite folder with your favourite script name. Done :)
 
 Notes:
-1. *Automator* is a powerful tool natively available in macOS, which aims to design and automate user customized workflow. You can find it from `Application` folder or simple search for it with *Spotlight*.
+1. *Automator* is a powerful tool natively available in macOS, which aims to design and automate user customized workflow. You can find it from `Application` folder or simple search for it with *Spotlight*. See [Automator User Guide](https://support.apple.com/guide/automator/welcome/mac) from Apple for more information.
 2. *Visual Studio Code.app* may not appear in the drop down menu of step 5 as expected. You may need to choose *other* and find it. Usually the *Visual Studio Code.app* is in `Application` folder. If not, you may refer to [this post](https://code.visualstudio.com/docs/setup/mac#_installation) to move it here.
 
 ## Reference
