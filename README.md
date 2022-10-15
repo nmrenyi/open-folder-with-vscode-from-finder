@@ -16,7 +16,7 @@ However, VS Code on Mac does not offer this shortcut natively. So here is an **e
 ## Steps To Implement
 1. Launch *Automator* on your Mac. 
 2. Select *New Document* icon on the bottom of the window (highlighted with red box). ![step2-select-new-doc](https://github.com/nmrenyi/open-vscode-from-finder-on-mac/raw/main/pics/step2-new-doc.png)
-3. Select *Workflow* and click *Choose* on the window that just comes out. ![step3-select-workflow](https://github.com/nmrenyi/open-vscode-from-finder-on-mac/raw/main/pics/step3-select-workflow.png)
+3. Choose *Workflow* as the type for your document. ![step3-select-workflow](https://github.com/nmrenyi/open-vscode-from-finder-on-mac/raw/main/pics/step3-select-workflow.png)
 4. Find the 4th category in the *Library* list on the left side of the window. Click on it and find *Open Finder Items*. Doubt click on this term or drag it to the window on the right. ![step4-select-open-finder-item](https://github.com/nmrenyi/open-vscode-from-finder-on-mac/raw/main/pics/step4-select-open-finder-item.png)
 5. Choose *Visual Studio Code.app* as the application of *Open with:* from the drop down menu. ![step5-select-vscode](https://github.com/nmrenyi/open-vscode-from-finder-on-mac/raw/main/pics/step5-select-vscode.png)
 6. Press `Command-S` to save the script to your favourite folder with your favourite script name. Done :)
