@@ -2,14 +2,14 @@
 
 
 ## Motivation
-It's quite a common need to open VS Code from a Finder window on Mac, especially for those developers who has been customed to open VS Code from File Explorer with just a slight right click on the target folder or file.
+It's quite a common need to open VS Code from a Finder window on Mac, especially for those developers who have been customed to open VS Code from File Explorer with just a slight right click on the target folder or file.
 
 However, VS Code on Mac does not offer this shortcut natively. So here is a **easy** and **neat** way to implement this feature.
 
 ## Methods
 1. Launch *Automator*. 
 2. Select *New Document* icon on the bottom of the window (highlighted with red box).
-3. Select *Workflow* and click *Choose* on the windows that just comes out.
+3. Select *Workflow* and click *Choose* on the window that just comes out.
 4. Find the 4th category in the *Library* list on the left side of the window. Click on it and find *Open Finder Items*. Doubt click on this term or drag it to the window on the right.
 5. Choose *Visual Studio Code.app* as the application of *Open with:* from the drop down menu.
 6. Press `command+s` to save the script to your favourite folder with your favourite name. Done :)
