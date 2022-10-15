@@ -10,7 +10,7 @@ It's quite a common need to open VS Code from a Finder window on Mac, especially
 
 However, VS Code on Mac does not offer this shortcut natively. So here is an **easy** and **subtle** way to implement this feature.
 
-## Methods
+## Steps To Implement
 1. Launch *Automator* on your Mac. 
 2. Select *New Document* icon on the bottom of the window (highlighted with red box). ![step2-select-new-doc](https://github.com/nmrenyi/open-vscode-from-finder-on-mac/raw/main/pics/step2-new-doc.png)
 3. Select *Workflow* and click *Choose* on the window that just comes out. ![step3-select-workflow](https://github.com/nmrenyi/open-vscode-from-finder-on-mac/raw/main/pics/step3-select-workflow.png)
