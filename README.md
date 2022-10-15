@@ -1,4 +1,4 @@
-# Open Visual Studio Code From Finder On Mac
+# Open Folder and File With Visual Studio Code From Finder On Mac
 
 
 ## Demo
