@@ -23,7 +23,7 @@ However, VS Code on Mac does not offer this shortcut natively. So here is an **e
 
 Notes:
 1. *Automator* is a powerful tool natively available in macOS, which aims to design and automate user customized workflow. To open *Automator&*, you can find it from `Application` folder or simple search for it with *Spotlight*. See [Automator User Guide](https://support.apple.com/guide/automator/welcome/mac) from Apple for more information.
-2. *Visual Studio Code.app* may not appear in the drop down menu of step 5 as expected. You may need to choose *other* and find it. Usually the *Visual Studio Code.app* is in `Application` folder. If not, you may refer to the installation part of [Visual Studio Code on macOS](https://code.visualstudio.com/docs/setup/mac#_installation) to move it here.
+2. *Visual Studio Code.app* may not appear in the drop down menu of step 5 as expected. You may need to choose *other* and find it. Usually the *Visual Studio Code.app* is in `Application` folder. If not, you may refer to the installation part of [Visual Studio Code on macOS](https://code.visualstudio.com/docs/setup/mac#_installation) to move it here so that you can find it in `Application` folder.
 
 ## Reference
 1. The implementation method refers to the second answer of [this post](https://stackoverflow.com/questions/64040393/open-a-folder-in-vscode-through-finder-in-macos) on StackOverflow. . I organised these steps into a doc with a demo here for everyone who may need it.
